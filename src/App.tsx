@@ -1,7 +1,6 @@
 import './App.css';
 import { Container } from '@material-ui/core';
 import { Form } from 'components/Form';
-import useFetch from './hooks/useFetch';
 import Countries from 'components/Countries';
 
 function App() {
